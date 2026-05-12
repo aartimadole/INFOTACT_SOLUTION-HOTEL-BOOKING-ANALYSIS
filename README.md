@@ -11,9 +11,13 @@ Seasonal demand fluctuations
 ## This project focuses on analyzing hotel booking data to identify:
 
 Customer cancellation behavior
+
 Revenue trends
+
 Dynamic pricing opportunities
+
 Seasonal booking patterns
+
 Customer segmentation
 
 Using Python, SQL, and Power BI, this project transforms raw hotel booking data into actionable business insights that help hotels improve pricing strategies, reduce cancellations, and maximize revenue.
